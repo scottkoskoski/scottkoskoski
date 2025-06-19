@@ -89,7 +89,7 @@ Building next-generation AI systems with emphasis on:
 * **Technical Collaborators** – Open to joint open-source projects or research initiatives in ML, Gen AI, and high-performance data systems
 * **Students & Early-Career Professionals** – Always happy to discuss career paths in data science and machine learning
 
-**Resume PDF:** [Download](./ScottKoskoski_Resume.pdf)
+**Resume PDF:** [Download](./ScottKoskoski.pdf)
 
 ---
 
