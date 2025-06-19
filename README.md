@@ -1,16 +1,98 @@
-## Hi there 👋
+# Scott Koskoski
+**Data Scientist · Machine-Learning Engineer · Full-Stack Developer**  
+Memphis, TN | [LinkedIn](https://linkedin.com/in/scott-koskoski) | [Email](mailto:scottkoskoski@gmail.com)  
+*Master of Science, Computer Science (in progress) · Master of Arts, Economics*
 
-<!--
-**scottkoskoski/scottkoskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Professional Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build end-to-end data and machine-learning systems that translate complex, high-volume data into actionable, bottom-line impact.
+
+My recent work includes:
+* **Cost Efficiency Index (CEI) Platform** – GPU-accelerated models on 1MM+ LTL shipments, delivering multimillion-dollar freight savings (proprietary)
+* **RAG-Lab** – Retrieval-augmented question-answering service over 150k U.S. wage records, combining BGE embeddings with DeepSeek-V3 (private repo; code available to interviewers)
+* **Full-Stack Solutions** – React/TypeScript front-ends paired with FastAPI or Flask back-ends, secured with JWT and deployed in Docker-based clouds
+
+I work across the full lifecycle—data engineering, feature design, modeling, MLOps, API design, and front-end delivery—and communicate results to technical and executive stakeholders.
+
+---
+
+## Core Technical Competencies
+
+| Area | Primary Tools |
+|------|---------------|
+| **Machine Learning & Gen AI** | PyTorch · Hugging Face Transformers (BERT, DeepSeek-V3) · scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow · FAISS · RAG · Statsmodels |
+| **Data Engineering & Analytics** | Python · SQL (SQL Server, PostgreSQL, Oracle) · Pandas · Polars · PySpark · Statistical Modeling · A/B Testing · Tableau |
+| **Cloud & Infrastructure** | Azure (VMs, Functions, Blob, ML) · AWS (S3, EC2, Lambda) · Docker · Git · CI/CD · GPU Acceleration |
+| **Software & Web Development** | FastAPI · Flask · React/TypeScript · REST/JSON · JWT Authentication · Database Design |
+
+---
+
+## Selected Public Repositories
+
+| Repository | Description | Key Stack Elements |
+|------------|-------------|--------------------|
+| **[DDoS Detection with PySpark](https://github.com/scottkoskoski/ddos-pyspark)** | Distributed cybersecurity analytics pipeline that ingests raw PCAP traffic, engineers features, and trains classifiers to detect DDoS attacks using the CIC dataset. Includes Dockerized Jupyter environment for rapid experimentation. | PySpark · MLlib · Docker · Jupyter · Network Analysis |
+| **[RISC-V ISA Emulator](https://github.com/scottkoskoski/isa-project)** | Modular 32-bit RISC-V processor emulator written in C, supporting full RV32IM integer, multiplication, and division instructions. Demonstrates low-level systems programming and computer architecture knowledge. | C · RISC-V Assembly · ELF Processing · Makefile |
+| **[Gardening App](https://github.com/scottkoskoski/gardening-app)** | Location-aware plant-recommendation web application with React/TypeScript front-end and Flask API backend. Features JWT authentication, USDA hardiness-zone integration, and weather API connections. | React 18 · TypeScript · Flask · JWT · SQLite · REST APIs |
+
+> **Note:** Proprietary enterprise work (CEI Platform) and private repositories (RAG-Lab) are omitted from GitHub but can be discussed and demonstrated in technical interviews.
+
+---
+
+## Professional Experience & Impact
+
+**Senior Solutions Engineer (Data Scientist)** | Green Mountain Technology | *Apr 2025 – Present*
+- Architected Cost Efficiency Index platform processing 1MM+ freight shipments with GPU-accelerated ML models
+- Built real-time anomaly detection systems reducing manual monitoring by 10+ hours weekly
+- Led data-driven RFP analyses enabling contract negotiations that reduced client freight spend **15% annually**
+
+**Data Analyst** | AutoZone | *May 2022 – Oct 2022*
+- Developed statistical and causal models optimizing product assortment across **5,000+ retail locations**
+- Implemented A/B testing frameworks that improved inventory efficiency by **12%**
+
+**Analytics Associate** | TransUnion Commerce Signals | *Jun 2019 – Jul 2020*
+- Built revenue forecasting models achieving **92% accuracy** on **15+ PB** of transaction data
+- Deployed end-to-end ML pipelines and interactive dashboards for major financial institutions
+
+### Education & Recognition
+- **M.S. Computer Science** (Data Mining & Intelligent Systems) — University of Tennessee, Knoxville | *Expected 2026*
+- **M.A. Economics** — University of Memphis | *Outstanding Graduate Student 2019 · Wells Fargo Analytics Challenge Winner*
+- **B.A. Economics, Minor Mathematics** — University of Arkansas, Fayetteville
+
+---
+
+## Current Technical Focus
+
+Building next-generation AI systems with emphasis on:
+- **Production RAG architectures** for enterprise knowledge management
+- **GPU-optimized ML pipelines** with automated hyperparameter tuning  
+- **Real-time optimization systems** for supply chain and logistics
+- **Scalable MLOps** deployment to cloud platforms
+
+---
+
+## How I Work
+
+1. **Business First** – Define the metric that matters; every line of code aligns to measurable impact
+2. **End-to-End Ownership** – Data ingestion → modeling → deployment → monitoring → optimization
+3. **Scalable Architecture** – Design for production from day one with proper MLOps and infrastructure
+4. **Clear Communication** – Rigorous documentation, actionable dashboards, and concise stakeholder updates
+5. **Continuous Improvement** – Iterate with experiment tracking, automated testing, and post-deployment feedback loops
+
+---
+
+## How to Engage
+
+* **Recruiters & Hiring Managers** – Feel free to reach out via email or LinkedIn for code walkthroughs, case-study presentations, or technical references
+* **Technical Collaborators** – Open to joint open-source projects or research initiatives in ML, Gen AI, and high-performance data systems
+* **Students & Early-Career Professionals** – Always happy to discuss career paths in data science and machine learning
+
+**Resume PDF:** [Download](./ScottKoskoski_Resume.pdf)
+
+---
+
+*Transforming data into strategic advantage through innovative machine learning and engineering solutions.*
+
+*Last updated — June 2025*
