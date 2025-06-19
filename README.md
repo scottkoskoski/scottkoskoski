@@ -48,9 +48,20 @@ I work across the full lifecycle—data engineering, feature design, modeling, M
 - Built real-time anomaly detection systems reducing manual monitoring by 10+ hours weekly
 - Led data-driven RFP analyses enabling contract negotiations that reduced client freight spend **15% annually**
 
+**Solutions Engineer II (Data Scientist)** | Green Mountain Technology | *Oct 2022 – Mar 2025*
+- Delivered minutes-to-insight workflow adopted by 6 enterprise shippers, replacing multi-day analyses with real-time freight-cost optimization
+- Developed statistical and ML models for carrier pricing benchmarks, providing data-driven guidance for multi-million-dollar contract negotiations
+- Engineered Python anomaly-detection systems with automated alerts, improving data reliability by **35%**
+- Optimized ETL workflows, reducing processing time by **40%** and enhancing reporting accuracy
+
 **Data Analyst** | AutoZone | *May 2022 – Oct 2022*
 - Developed statistical and causal models optimizing product assortment across **5,000+ retail locations**
 - Implemented A/B testing frameworks that improved inventory efficiency by **12%**
+
+**Solutions Engineer I (Data Analyst)** | Green Mountain Technology | *Aug 2020 – Apr 2022*
+- Built Tableau supply-chain dashboards powered by complex SQL for Fortune 500 shippers, elevating operational insight
+- Authored Python automation scripts that cut freight-rating workload by **25%** and eliminated manual errors
+- Created financial-modeling algorithms to simulate multiple contracts for **$1B+** carrier negotiations
 
 **Analytics Associate** | TransUnion Commerce Signals | *Jun 2019 – Jul 2020*
 - Built revenue forecasting models achieving **92% accuracy** on **15+ PB** of transaction data
