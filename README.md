@@ -10,7 +10,7 @@ Memphis, TN | [LinkedIn](https://linkedin.com/in/scott-koskoski) | [Email](mailt
 I build end-to-end data and machine-learning systems that translate complex, high-volume data into actionable, bottom-line impact.
 
 My recent work includes:
-* **Cost Efficiency Index (CEI) Platform** – GPU-accelerated models on 1MM+ LTL shipments, delivering multimillion-dollar freight savings (proprietary)
+* **Cost Efficiency Index (CEI) Platform** – GPU-accelerated models on 1M+ LTL shipments, delivering multimillion-dollar freight savings (proprietary)
 * **RAG-Lab** – Retrieval-augmented question-answering service over 150k U.S. wage records, combining BGE embeddings with DeepSeek-V3 (private repo; code available to interviewers)
 * **Full-Stack Solutions** – React/TypeScript front-ends paired with FastAPI or Flask back-ends, secured with JWT and deployed in Docker-based clouds
 
