@@ -44,7 +44,7 @@ I work across the full lifecycle—data engineering, feature design, modeling, M
 ## Professional Experience & Impact
 
 **Senior Solutions Engineer (Data Scientist)** | Green Mountain Technology | *Apr 2025 – Present*
-- Architected Cost Efficiency Index platform processing 1MM+ freight shipments with GPU-accelerated ML models
+- Architected Cost Efficiency Index platform processing 1M+ freight shipments with GPU-accelerated ML models
 - Built real-time anomaly detection systems reducing manual monitoring by 10+ hours weekly
 - Led data-driven RFP analyses enabling contract negotiations that reduced client freight spend **15% annually**
 
