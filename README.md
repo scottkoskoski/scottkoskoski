@@ -63,7 +63,7 @@ I work across the full lifecycle—data engineering, feature design, modeling, M
 - Authored Python automation scripts that cut freight-rating workload by **25%** and eliminated manual errors
 - Created financial-modeling algorithms to simulate multiple contracts for **$1B+** carrier negotiations
 
-**Analytics Associate** | TransUnion Commerce Signals | *Jun 2019 – Jul 2020*
+**Analytics Associate** | Verisk Financial Argus (now part of TransUnion) | *Jun 2019 – Jul 2020*
 - Built revenue forecasting models achieving **92% accuracy** on **15+ PB** of transaction data
 - Deployed end-to-end ML pipelines and interactive dashboards for major financial institutions
 
