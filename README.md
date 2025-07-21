@@ -106,4 +106,4 @@ Building next-generation AI systems with emphasis on:
 
 *Transforming data into strategic advantage through innovative machine learning and engineering solutions.*
 
-*Last updated — June 2025*
+*Last updated — July 2025*
