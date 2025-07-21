@@ -12,7 +12,7 @@ I build end-to-end data and machine-learning systems that translate complex, hig
 My recent work includes:
 * **Cost Efficiency Index (CEI) Platform** – GPU-accelerated models on 1M+ LTL shipments, delivering multimillion-dollar freight savings (proprietary)
 * **RAG-Lab** – Retrieval-augmented question-answering service over 150k U.S. wage records, combining BGE embeddings with DeepSeek-V3 (private repo; code available to interviewers)
-* **Full-Stack Solutions** – React/TypeScript front-ends paired with FastAPI or Flask back-ends, secured with JWT and deployed in Docker-based clouds
+* **Full-Stack Solutions** – React/TypeScript front-ends paired with FastAPI or Flask back-ends, secured with JWT and deployed in Docker containers
 
 I work across the full lifecycle—data engineering, feature design, modeling, MLOps, API design, and front-end delivery—and communicate results to technical and executive stakeholders.
 
