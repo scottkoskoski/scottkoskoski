@@ -1,7 +1,7 @@
 # Scott Koskoski
 
 **Senior Analytics Engineer**
-Memphis, TN (open to relocation) · [LinkedIn](https://linkedin.com/in/scott-koskoski) · [Email](mailto:scottkoskoski@gmail.com)
+Memphis, TN · [LinkedIn](https://linkedin.com/in/scott-koskoski) · [Email](mailto:scottkoskoski@gmail.com)
 *M.S. Computer Science, University of Tennessee (May 2026) · M.A. Economics, University of Memphis*
 
 ---
